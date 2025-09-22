@@ -47,9 +47,9 @@ redirect_from:
     <br/><br/>
 </body>
 
-* Name: Your Name 
-* Phone and WeChat: 15705694836 / Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* Personal Website: [iculizhi.github.io](https://iculizhi.github.io/)
+* Name: Wang Zicun 
+* Phone and WeChat: 13944190003 / Email: [2500012702@stu.pku.edu.cn](2500012702@stu.pku.edu.cn)
+* Personal Website: [Franklin1919.github.io](https://Franklin1919.github.io/)
 
 Education
 ======
@@ -59,7 +59,7 @@ Education
 
 Awards
 ======
-* Silver Medal, China Mathematical Olympiad (CMO)
+* Silver Medal, Chinese Physics Olympiad (CPhO)
 
 <!--
 Work experience
