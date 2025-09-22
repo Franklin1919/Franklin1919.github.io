@@ -54,8 +54,7 @@ redirect_from:
 Education
 ======
 * Undergraduate: Beijing, Peking University, 2022
-  * Major: Information and Computing Science (Turing Class), School of Electronics Engineering and Computer Science
-  * Double Degree: Economics, National School of Development
+  * Major: Applied Physics, School of Electronics Engineering and Computer Science
 
 Awards
 ======
